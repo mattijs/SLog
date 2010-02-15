@@ -1,0 +1,8 @@
+h1. SLog
+
+SLog is a static (or singleton) logger. It enables you to insert logging into
+object oriented code with adding parameters to class or method signatures.
+
+h2. License
+
+This code is free to use and distributed under the New BSD License.
