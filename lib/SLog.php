@@ -39,7 +39,7 @@ class SLog
      * Returns the active SLog instance.
      * @return SLog
      */
-    public function getInstance()
+    public static function getInstance()
     {
         if(null === self::$_instance) {
             self::$_instance = new self;
